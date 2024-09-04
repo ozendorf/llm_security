@@ -6,7 +6,8 @@
 * https://huntr.com/
 
 ## Open sources tools 
-
+* [giskard](https://www.giskard.ai/)
+* 
 ## Market solutions 
 
 ## Conferences
