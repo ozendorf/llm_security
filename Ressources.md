@@ -5,3 +5,6 @@
 ## Bug bounty, vulnerabilities on AI/LLM
 * https://huntr.com/
 
+## Open sources tools 
+
+## Market solutions 
