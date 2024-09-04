@@ -14,4 +14,4 @@
 
 ## Books
 * https://nostarch.com/how-ai-works
-* 
+* The Developer's Playbook for Large Language Model Security: Building Secure AI Applications
