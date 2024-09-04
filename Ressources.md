@@ -9,4 +9,9 @@
 
 ## Market solutions 
 
+## Conferences
+*
+
 ## Books
+* https://nostarch.com/how-ai-works
+* 
