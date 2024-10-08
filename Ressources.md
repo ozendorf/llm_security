@@ -3,6 +3,7 @@
 * Many articles, blog posts and repos [here](https://github.com/corca-ai/awesome-llm-security?tab=readme-ov-file)
 * TensorFlow threat model [here](https://bughunters.google.com/blog/5160301538967552/tensorflow-threat-model-and-security-guidelines-update)
 * To read : theory on red teaming on LLMs 
+* To read :     LLM used to attack LLms https://aclanthology.org/2022.emnlp-main.225.pdf 
 
 
 ## Standards / Compliance on AI Security 
@@ -29,3 +30,7 @@ https://flowgpt.com/
 
 ## References for demo
 * https://redarena.ai/
+
+
+## Blogs 
+* https://www.ericswallace.com/ 

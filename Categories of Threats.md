@@ -36,6 +36,9 @@ Attack Surface:
 
 ![Alt text](image.png)
 
+
+![Alt text](image-1.png)
+
 ## Types of attacks
 ### Jailbreak 
 * application prompts also include an H3 (Helpful, Harmless and Honest) directive
@@ -58,5 +61,26 @@ Attack Surface:
 A “Red LLM” communicates with the LLM (which is being attacked) through its API
 out put is then scanned by a red classifier to detect harmful behavior
 example of framework: ReNeLLM
+* Prompt Rewriting: chaning some names by synonyms without changing original meaning
+* scenario nesting: examples are code completion, table filling, text continuation 
+* Transferable attacks: “Universal Adversarial Triggers” in the NLP
+  input-agnostic sequences of tokens that trigger a model to produce a specific prediction when concatenated to any input from a dataset
+* genetic-algorithm-based approaches
+* Inversion attack (stealing training data, model weights, or system/user prompts)
+
+In the future:
+* multimodal models: prompts hidden in images 
+
+
 
 http://easyjailbreak.org/
+
+### Red teaming
+interactions between red-team language models (RLMs) and blue-team language models (BLMs)
+different approaches:
+* curiosity driven exploration 
+
+problem of automated attacks:
+* lack of diversity leading to miss catastrophic errors a human can identify
+* generative model-generated attacks display a high degree of clustering.
+* 
