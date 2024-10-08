@@ -4,12 +4,19 @@
 * TensorFlow threat model [here](https://bughunters.google.com/blog/5160301538967552/tensorflow-threat-model-and-security-guidelines-update)
 * To read : theory on red teaming on LLMs 
 
+
+## Standards / Compliance on AI Security 
+* [CISA and NCSC's Take on Secure AI Development](https://www.resilientcyber.io/p/cisa-and-ncscs-take-on-secure-ai)
 ## Bug bounty, vulnerabilities on AI/LLM
 * https://huntr.com/
 
+
+* Jailbreaking 
+https://flowgpt.com/
+
 ## Open sources tools 
 * [giskard](https://www.giskard.ai/)
-* test
+* http://easyjailbreak.org/
 * test 
 ## Market solutions 
 
@@ -19,3 +26,6 @@
 ## Books
 * https://nostarch.com/how-ai-works
 * The Developer's Playbook for Large Language Model Security: Building Secure AI Applications
+
+## References for demo
+* https://redarena.ai/
