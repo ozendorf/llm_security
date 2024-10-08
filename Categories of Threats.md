@@ -34,6 +34,8 @@ Attack Surface:
 * Jailbreak attacks require just access to the llm based app
 * Trainig time attack require : training procedure and  instruction tuning or fine-tuning data
 
+![Alt text](image.png)
+
 ## Types of attacks
 ### Jailbreak 
 * application prompts also include an H3 (Helpful, Harmless and Honest) directive
