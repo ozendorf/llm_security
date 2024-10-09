@@ -84,3 +84,5 @@ problem of automated attacks:
 * lack of diversity leading to miss catastrophic errors a human can identify
 * generative model-generated attacks display a high degree of clustering.
 * 
+
+see prompt injection techniques
